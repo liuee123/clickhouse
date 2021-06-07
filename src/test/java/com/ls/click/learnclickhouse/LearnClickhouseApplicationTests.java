@@ -1,0 +1,13 @@
+package com.ls.click.learnclickhouse;
+
+import org.junit.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LearnClickhouseApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
